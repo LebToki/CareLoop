@@ -13,7 +13,7 @@ CareLoop is a comprehensive clinic management system designed for efficient hand
 - Customizable and Scalable: Built to accommodate the needs of various clinics with support for tenant-specific configurations.
 
 ---
-![Super-Admin Dashboard](Super-Admin Dashboard.png)
+![Super-Admin Dashboard](Super-Admin-Dashboard.png)
 ![Clinic Dashboard](Clinic-Dashboard.png)
 ![Client Portal](Client-Portal.png)
 ![Clinic Appointments Module](Clinic-Dashboard-Appointments.png)
