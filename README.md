@@ -1,5 +1,5 @@
 # CareLoop - Clinic Dashboard and Management System
-CareLoop is a comprehensive clinic management system designed for efficient handling of appointments, patients, invoices, health reminders, and more. This robust platform helps clinics streamline their operations, manage clients and their pets, and ensure top-notch care services with integrated notifications and reminders.
+CareLoop is a comprehensive clinic management system designed for efficient handling of appointments, patients, invoices, health reminders, and more. This robust platform helps clinics streamline their operations, manage clients and their pets, and ensure top-notch care services with integrated notifications and reminders. The system was initially built with a SaaS mindset and therefore Multi-tenancy can be provided or Multi-Branch Operations can take place and above all a streamlined and integrated Customer Portal was built for Self-Servicing Clients with a communication module with the Clinic too and provides some neat services.
 
 # Features
 
@@ -11,7 +11,18 @@ CareLoop is a comprehensive clinic management system designed for efficient hand
 - Integrated WhatsApp Notifications: Send birthday greetings, reminders, and updates directly to clients.
 - Dynamic Data Fetching: Fetch appointments, clients, pets, invoices, and services dynamically for streamlined workflows.
 - Customizable and Scalable: Built to accommodate the needs of various clinics with support for tenant-specific configurations.
-  
+
+---
+![Super-Admin Dashboard](Super-Admin Dashboard.png)
+![Clinic Dashboard](Clinic-Dashboard.png)
+![Client Portal](Client-Portal.png)
+![Clinic Appointments Module](Clinic-Dashboard-Appointments.png)
+![Patients](Clinic-Dashboard-Patients.png)
+![Patients Profiles](Clinic-Dashboard-Patients-Profile.png)
+![Clini Reminders](Client-Reminders.png)
+
+
+---
 # Technology Stack
 - Backend: PHP, MySQL
 - Frontend: HTML, CSS, JavaScript (Bootstrap 5 for UI design)
