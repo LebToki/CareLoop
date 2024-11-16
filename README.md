@@ -35,7 +35,7 @@ CareLoop is a comprehensive clinic management system designed for efficient hand
 - Clone the Repository:
 
 `
-git clone https://github.com/<your-username>/careloop.git
+git clone https://github.com/LebToki/careloop.git
 `
 
 `
